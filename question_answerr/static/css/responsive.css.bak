@@ -1,0 +1,42 @@
+@media(max-width:650px){
+	#solution{
+		display:none;
+	}
+	body{
+		background-image:none !important;
+	}
+	#logo{
+		margin-left:25%;
+		width:30%;
+	}
+	#try{
+		margin-top:40%;
+	}
+	.class1 #inp3{
+		width:200px;
+	}
+	.class2 #lbl1 , #pick{
+		margin-left:-190px;
+		width:200px;
+	}
+	.class2 #drop{
+		width:45%;
+		margin-left:12px;
+		width:200px;
+	}
+	.schedule #inp3{
+		width:200px;
+	}
+	.class3 #drop{
+		width:200px;
+		margin-left:7px;
+		margin-top:10px;
+	}
+	.class4 #inp3{
+		width:200px;
+		margin-left:10px;
+	}
+	.class5 #btn1 {
+		margin-left:-500px;
+	}
+}
